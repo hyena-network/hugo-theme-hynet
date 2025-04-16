@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <post class="blogpost">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := .Date | time.Format ":date_long" }}
+    <time datetime="{{ $dateMachine }}">Posted on <b>{{ $dateHuman }}</b></time><br/>
+    <hr/>
+    <content>
+      {{ .Content }}
+    </content>
+  </post>
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}

@@ -1,0 +1,16 @@
+:root {
+    --accent-color: #faacac;
+    --secondary-accent-color: #b84c4b;
+    --tertiary-accent-color: #7f3938;
+    --background-color: #131111;
+    --foreground-color: #272222;
+    --primary-text-color: #b9b9ba;
+    --muted-text-color: #89898a;
+    --star-color: #fff;
+    --primary-space-color: #1e2329;
+    --secondary-space-color: #090a0f;s
+    --font-family: MonoMMM_5, sans-serif;
+    --alert-primary-color: #ffc116;
+    --alert-secondary-color: #ffa216;
+    --alert-foreground-color: #000;
+}

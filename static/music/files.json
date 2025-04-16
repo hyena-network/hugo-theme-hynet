@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Cave Story Egg Corridor (MPT Remix)",
+    "artist": "Cubby Crazes",
+    "source": "/music/eggcorridor_mpt.OGG",
+    "credits": "https://www.youtube.com/watch?v=ie5Yuti0mFA",
+    "volume": 1
+  },
+  {
+    "title": "Mimiga Town",
+    "artist": "Rushjet1",
+    "source": "/music/03MimigaTown.ogg",
+    "credits": "https://rushjet1.bandcamp.com/album/cave-story-famitracks",
+    "volume": 0.5
+  },
+  {
+    "title": "The Way Back Home",
+    "artist": "Rushjet1",
+    "source": "/music/35TheWayBackHome.ogg",
+    "credits": "https://rushjet1.bandcamp.com/album/cave-story-famitracks",
+    "volume": 0.5
+  },
+  {
+    "title": "Gravity",
+    "artist": "Rushjet1",
+    "source": "/music/06Gravity.ogg",
+    "credits": "https://rushjet1.bandcamp.com/album/cave-story-famitracks",
+    "volume": 0.5
+  },
+  {
+    "title": "Mischievous Robot",
+    "artist": "Rushjet1",
+    "source": "/music/09MischievousRobot.ogg",
+    "credits": "https://rushjet1.bandcamp.com/album/cave-story-famitracks",
+    "volume": 0.5
+  },
+  {
+    "title": "Onto Grasstown",
+    "artist": "Rushjet1",
+    "source": "/music/11OntoGrasstown.ogg",
+    "credits": "https://rushjet1.bandcamp.com/album/cave-story-famitracks",
+    "volume": 0.5
+  }
+]
