@@ -141,28 +141,31 @@ a {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Web437 Nix8810 M16', monospace;
+  font-family: 'Heading', monospace;
   font-weight: bold;
   color: var(--accent-color);
   text-shadow: var(--tertiary-accent-color) 0 2px;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 h1 {
   font-size: 3rem;
-  line-height: 40px;
+  letter-spacing: -0.5rem;
+  line-height: 3.2rem;
   margin: 0;
 }
 
 h2 {
   font-size: 2rem;
+  letter-spacing: -0.1rem;
   padding: 0;
   margin: 0.5rem;
   display: inline-block;
 }
 
 h3 {
-  font-size: rem;
+  font-family: 'Web437 Nix8810 M16', monospace;
+  font-size: 1rem;
   padding: 0;
   margin: 0;
   display: inline-block;
